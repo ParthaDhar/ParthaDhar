@@ -4,6 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthaDhar&langs_count=8&layout=compact&count_private=true)](https://github.com/ParthaDhar)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ParthaDhar&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ParthaDhar)
 
 <!--
 **ParthaDhar/ParthaDhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
