@@ -35,25 +35,25 @@
 <p align=center>
   <div align=center>
     <a href="#gh-dark-mode-only" title="GitHub Streak">
-      <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com/?user=ParthaDhar&theme=gruvbox&locale=hi&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=DD4811&stroke=DD2727&sideNums=DD2727&ring=DD2727#gh-dark-mode-only" alt="ParthaDhar" />
+      <img align="left" width=403 src="http://github-readme-streak-stats.herokuapp.com/?user=ParthaDhar&theme=gruvbox&locale=hi&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=DD4811&stroke=DD2727&sideNums=DD2727&ring=DD2727#gh-dark-mode-only" alt="ParthaDhar" />
     </a>
     <a href="#gh-light-mode-only" title="GitHub Streak">
-      <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=ParthaDhar&theme=flag-india&locale=hi&dates=DD2727#gh-light-mode-only" alt="ParthaDhar" />
+      <img align="left" width=403 src="http://github-readme-streak-stats.herokuapp.com?user=ParthaDhar&theme=flag-india&locale=hi&dates=DD2727#gh-light-mode-only" alt="ParthaDhar" />
     </a>
     <a href="#gh-dark-mode-only" title="stats">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ParthaDhar&count_private=true&show_icons=true&theme=gruvbox#gh-dark-mode-only" />
+      <img align="right" width=403 src="https://github-readme-stats.vercel.app/api?username=ParthaDhar&count_private=true&show_icons=true&theme=gruvbox#gh-dark-mode-only" />
     </a>
     <a href="#gh-light-mode-only" title="stats">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ParthaDhar&count_private=true&show_icons=true&theme=flag-india#gh-light-mode-only" />
+      <img align="right" width=403 src="https://github-readme-stats.vercel.app/api?username=ParthaDhar&count_private=true&show_icons=true&theme=flag-india#gh-light-mode-only" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="#gh-dark-mode-only" title="GitHub Top Languages">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthaDhar&langs_count=8&layout=compact&count_private=true&theme=gruvbox#gh-dark-mode-only" />
+      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthaDhar&langs_count=8&layout=compact&count_private=true&theme=gruvbox#gh-dark-mode-only" />
     </a>
     <a href="#gh-light-mode-only" title="GitHub Top Languages">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthaDhar&langs_count=8&layout=compact&count_private=true&theme=flag-india#gh-light-mode-only" />
+      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthaDhar&langs_count=8&layout=compact&count_private=true&theme=flag-india#gh-light-mode-only" />
     </a>
   </div>
 </p>
