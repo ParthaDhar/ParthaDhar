@@ -98,6 +98,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/ParthaDhar"><img align="left" src="https://api.daily.dev/devcards/fa6b559ab16143c39acb8ae0d5dd7c77.png?r=y1s" width="auto" height="400" alt="Partha Dhar's Dev Card"/></a>
+<a href="https://app.daily.dev/ParthaDhar"><img align="left" src="https://github.com/ParthaDhar/ParthaDhar/blob/main/devcard.svg" width="auto" height="400" alt="Partha Dhar's Dev Card"/></a>
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/ParthaDhar/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/ParthaDhar/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/ParthaDhar/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
