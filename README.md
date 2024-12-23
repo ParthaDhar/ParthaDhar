@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/kittinan/spotify-github-profile"><img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=21tozj5oxh4gy4ujtoffcispi&cover_image=true&theme=default&background_color=121212&bar_color=e78123&bar_color_cover=true" width="auto" height="318" alt="Partha Dhar's Spotify"/></a>
+<a href="https://github.com/kittinan/spotify-github-profile"><img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21tozj5oxh4gy4ujtoffcispi&cover_image=true&theme=default&background_color=121212&bar_color=e78123&bar_color_cover=true" width="auto" height="318" alt="Partha Dhar's Spotify"/></a>
 
 <a href="https://app.daily.dev/ParthaDhar"><img align="left" src="https://github.com/ParthaDhar/ParthaDhar/blob/main/devcard.svg" width="auto" height="318" alt="Partha Dhar's Dev Card"/></a>
 
