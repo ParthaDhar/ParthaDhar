@@ -1,106 +1,53 @@
-<h1 align = "center"> Hi 👋, I'm Partha Dhar </h1>
-<h2 align = "center"> A passionate Cyber Security & Blockchain enthusiast </h2>
-<p align="center">
-  💻 love to write code and learn something new
-  <br>
-  🔭 Currently working on a Multi-Exchange Multi-User Trading bot Managment application,
-  <br> And some DeFi on Multiple Network (trx, btt, bsc, matic, sol, eth2).
-  <br>
-  📚 I’m currently learning NodeJs and Python
-  <br>
-</p>
-<hr>
-  <div align="center">
-  <details open>
-  <summary>&lrm; 🌎 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚 &#x276F;&#x276F;</summary>
-  <br>
+# Partha Dhar
 
-  [![Mail](https://img.shields.io/badge/MAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:parthadhar@hotmail.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ParthaDhar)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ParthaDhar08)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ParthaDhar_)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/partha.dhar/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthadhar/)
-  
-  <br>
-  </details>
-  </div>
+Backend and platform engineer. Kolkata, India.\
+I build things that run unattended, and I write down where they break.
 
----
-<div align="center">
-<details>
-<summary>&lrm; 🚩 𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙁𝙤𝙧 𝙂𝙞𝙩𝙝𝙪𝙗 𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨 &#x276F;&#x276F;</summary>
-<h2 align="center">⚡ Github Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="#gh-dark-mode-only" title="GitHub Streak">
-      <img align="left" width=403 src="http://github-readme-streak-stats.herokuapp.com/?user=ParthaDhar&theme=gruvbox&locale=hi&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=DD4811&stroke=DD2727&sideNums=DD2727&ring=DD2727#gh-dark-mode-only" alt="ParthaDhar" />
-    </a>
-    <a href="#gh-light-mode-only" title="GitHub Streak">
-      <img align="left" width=403 src="http://github-readme-streak-stats.herokuapp.com?user=ParthaDhar&theme=flag-india&locale=hi&dates=DD2727#gh-light-mode-only" alt="ParthaDhar" />
-    </a>
-    <a href="#gh-dark-mode-only" title="stats">
-      <img align="right" width=403 src="https://github-readme-stats.vercel.app/api?username=ParthaDhar&count_private=true&show_icons=true&theme=gruvbox#gh-dark-mode-only" />
-    </a>
-    <a href="#gh-light-mode-only" title="stats">
-      <img align="right" width=403 src="https://github-readme-stats.vercel.app/api?username=ParthaDhar&count_private=true&show_icons=true&theme=flag-india#gh-light-mode-only" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="#gh-dark-mode-only" title="GitHub Top Languages">
-      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthaDhar&langs_count=8&layout=compact&count_private=true&theme=gruvbox#gh-dark-mode-only" />
-    </a>
-    <a href="#gh-light-mode-only" title="GitHub Top Languages">
-      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthaDhar&langs_count=8&layout=compact&count_private=true&theme=flag-india#gh-light-mode-only" />
-    </a>
-  </div>
-</p>
+## Selected work
 
-<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+| Project | What it is | Notable |
+|---|---|---|
+| [listenbrainz-widget](https://github.com/ParthaDhar/listenbrainz-widget) | Self-hosted now-playing SVG cards for ListenBrainz, MIT. [Live](https://lb.parthadhar.com/widget/PaulDr/c108c6b11cd6eda37aed766da58e6f33b7c0b0f9a1ba8da88158c848a54ea5e4?theme=dark&layout=default&palette=classic&count=1) | Display-privacy flags are bound to the token at issue time, so editing the URL cannot widen them. ETag plus a soft-refresh parameter to beat a proxy that cached the fallback art. |
+| [Audio_Quality_Profiling](https://github.com/ParthaDhar/Audio_Quality_Profiling) | Audio library quality and duplicate scanner: Python, ffprobe, mutagen | A lossy codec at a high sample rate is an upsample: flagged at 0.9 confidence, score halved. Every scoring path returns its evidence, not a bare number. Ran clean on a 4,100-file library. |
+| [iswap-contracts](https://github.com/ParthaDhar/iswap-contracts) | Uniswap-V2-style AMM contracts ported to TRON, deployed snapshot | A distinct CREATE2 init-code hash per network, and both Base58 and hex forms of every deployed address. Get the hash wrong and every pair address silently resolves to nothing. |
+| [wb-electoral-data](https://github.com/partha-dhar/wb-electoral-data) | Bulk text-recovery pipeline for deliberately garbled government PDFs | Text came out as shifted garbage until a character-identifier (CID) mapping was built to decode the embedded fonts. 7,936 PDFs downloaded and validated, extraction logged at about 7.6 s per PDF, cross-check API calls self-throttled to 2 req/s under a published 50 req/s limit. |
 
-<h2 align="center">⚡ Github Trophies ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=ParthaDhar&theme=gruvbox&row=2&column=4&margin-w=15&margin-h=15&no-bg=true#gh-dark-mode-only" alt="ParthaDhar" /></a>
-    <a href="#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=ParthaDhar&theme=flat&row=2&column=4&margin-w=15&margin-h=15#gh-light-mode-only" alt="ParthaDhar" /></a>
-  </div>
-  <br>
-</p>
+## Also shipped, not here
 
-<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+Client work, under NDA:
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ParthaDhar/ParthaDhar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ParthaDhar/ParthaDhar/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+- Cryptocurrency exchange infrastructure handling real money, with BTC, ETH and TRON full
+  nodes in production.
+- A legacy AWS and ColdFusion estate whose database holds records back to 1994, modernised
+  incrementally with no staging environment to practise on.
+- A serverless invoice ingestion pipeline on AWS Lambda, 51 of 52 commits mine: 48 gated
+  migrations, a read-only preflight, a snapshot before anything irreversible. 15,244 invoices
+  re-transformed with zero errors.
+- A self-hosted SonarQube and GitLab CI quality gate that files findings back as
+  de-duplicated issues, adopted into three client pipelines.
 
-<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+Public, under an organisation account rather than mine:
 
-<a href="#gh-dark-mode-only"><img src="https://activity-graph.herokuapp.com/graph?username=ParthaDhar&theme=github-dark#gh-dark-mode-only" alt="ParthaDhar" /></a>
-<a href="#gh-light-mode-only"><img src="https://activity-graph.herokuapp.com/graph?username=ParthaDhar&theme=github-light#gh-light-mode-only" alt="ParthaDhar" /></a>
+- 146 commits across three interfaces of a multi-chain AMM, as second committer, from the
+  organisation's first week. Live since 2022.
 
-</details>
-</div>
+## How I work
 
----
-<!--
-**ParthaDhar/ParthaDhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Measure before deciding, and keep the measurement next to the decision.
+- End with the limits: what I did not check, and which of my own earlier conclusions were wrong.
+- Guardrail before feature. Dry run by default. Make the dangerous operation structurally
+  unable to do the wrong thing, rather than adding a confirmation.
+- Smallest thing that works. A new dependency is a conversation, not an edit.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python - PHP / Laravel - Node - TypeScript - Bash - Solidity\
+AWS - Docker - GitLab CI - GitHub Actions - nginx - Apache - systemd\
+Postgres - MySQL - SQLite - DuckDB - Redis\
+SonarQube - opengrep - grype - trivy - fail2ban - iptables / ipset
 
-<a href="https://github.com/kittinan/spotify-github-profile"><img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21tozj5oxh4gy4ujtoffcispi&cover_image=true&theme=default&background_color=121212&bar_color=e78123&bar_color_cover=true" width="auto" height="318" alt="Partha Dhar's Spotify"/></a>
+## Elsewhere
 
-<a href="https://app.daily.dev/ParthaDhar"><img align="left" src="https://github.com/ParthaDhar/ParthaDhar/blob/main/devcard.svg" width="auto" height="318" alt="Partha Dhar's Dev Card"/></a>
+[cv.parthadhar.com](https://cv.parthadhar.com) - [LinkedIn](https://www.linkedin.com/in/parthadhar/) - [parthadhar@hotmail.com](mailto:parthadhar@hotmail.com)
 
-<table style="width: 25%;"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/ParthaDhar/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/ParthaDhar/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/ParthaDhar/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParthaDhar&show_icons=true&count_private=true)
